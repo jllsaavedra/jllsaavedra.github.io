@@ -1,0 +1,27 @@
+body{
+    background-image:url(cat.jpg);
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: 'Gothic A1', sans-serif;
+    font-weight: 300;
+}
+.center{
+    position: relative;
+    left: 160px;
+    top: 40px;
+    padding: 15px;
+}
+td {
+    text-align: center;
+    background-color: rgba(235,228,222,0.5);
+}
